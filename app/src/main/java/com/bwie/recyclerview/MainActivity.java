@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         Log.e("Myszx","first");
         Log.d("MYADX","DAF");
+        Log.d("szx","lover");
 
     }
 
